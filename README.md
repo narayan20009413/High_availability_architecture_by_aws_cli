@@ -1,4 +1,4 @@
-#Created High Availability Architecture with AWS CLI 
+# Created High Availability Architecture with AWS CLI 
 
 The architecture includes-
 1. Webserver configured on EC2 Instance
