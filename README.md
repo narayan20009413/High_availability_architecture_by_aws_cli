@@ -1,4 +1,3 @@
-# High_availability_architecture_by_aws_cli
 Created High Availability Architecture with AWS CLI 
 
 The architecture includes-
